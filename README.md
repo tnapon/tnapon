@@ -31,8 +31,8 @@
  <a href="" target="_blank">  </a>
     </p>
 
+<h2 align="left">⚙️ GitHub Analytics</h2>
 
-⚙️ GitHub Analytics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnapon&show_icons=true&theme=radical) 
 
